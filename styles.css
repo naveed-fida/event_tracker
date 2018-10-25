@@ -1,0 +1,28 @@
+body {
+  background-color: #BFCECC;
+}
+
+main {
+  width: 80%;
+  margin: 0 0 0 20px;
+}
+
+a {
+  display: block;
+}
+
+h2 {
+  color: #1D3B3A;
+}
+
+.video {
+  display: inline-block;
+  width: 45%;
+  margin: 0 10px 0 0;
+  box-sizing: border-box;
+}
+
+iframe {
+  height: 315px;
+  width: 95%;
+}
